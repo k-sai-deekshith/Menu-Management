@@ -1,6 +1,3 @@
-Sure, here's a professional and humanized `README.md` file for your project:
-
-```markdown
 # Menu Management API
 
 ## Overview
@@ -180,8 +177,3 @@ Before you begin, ensure you have the following installed:
 
 ## License
 This project is licensed under the MIT License. 
-
----
-
-Thank you for reviewing my project. I look forward to discussing it further with you!
-```
