@@ -1,5 +1,3 @@
-Sure, here's a professional and humanized `README.md` file for your project:
-
 # Menu Management API
 
 ## Overview
