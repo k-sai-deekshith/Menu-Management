@@ -3,6 +3,9 @@
 ## Overview
 Welcome to the Menu Management API project! This Node.js backend server is designed to manage a hierarchical menu system, including categories, subcategories, and items. The project demonstrates how to create, retrieve, update, and search these entities efficiently using RESTful APIs. The application is built with Express.js and MongoDB, ensuring a robust and scalable solution.
 
+## Video recording
+- This is a link to the [video recording](https://www.loom.com/share/d5aa2b248b454ab5a24a8be30d91f1f2?sid=3c4ae285-0b64-4fcb-8aad-853d7fa75e42) in loom to explain the project implementation. 
+
 ## Features
 - **Create, Retrieve, Update, and Delete**: Full CRUD operations for categories, subcategories, and items.
 - **Search Functionality**: Search items by name with ease.
